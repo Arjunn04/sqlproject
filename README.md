@@ -1,11 +1,11 @@
-# 📊 Amazon Sales Data Analysis using SQL
+#  Amazon Sales Data Analysis using SQL
 
-## 📌 Project Title
+##  Project Title
 **Amazon Sales & Revenue Analysis using MySQL**
 
 ---
 
-## 📖 Project Description
+##  Project Description
 This project focuses on performing **structured data analysis using SQL** on an Amazon-like sales dataset.  
 The goal is to extract **meaningful business insights** such as sales trends, revenue contribution, order status analysis, and sales agent performance.
 
@@ -16,7 +16,7 @@ The project demonstrates:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze **monthly sales trends**
 - Identify **top-performing regions**
 - Measure **revenue loss due to cancellations**
@@ -26,7 +26,7 @@ The project demonstrates:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 | Tool | Purpose |
 |----|----|
 | MySQL | Database & query execution |
@@ -36,7 +36,7 @@ The project demonstrates:
 
 ---
 
-## 🗂️ Database Information
+##  Database Information
 
 - **Database Name:** `seals`
 - **Table Name:** `Amazon`
@@ -44,7 +44,7 @@ The project demonstrates:
 
 ---
 
-## 🧾 Table Schema
+##  Table Schema
 
 ```sql
 CREATE TABLE Amazon (
